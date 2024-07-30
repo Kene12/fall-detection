@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 Noorkhokhar
+Copyright (c) 2024 Panithan Kunkaew
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+This software is designed for detecting falls and prolonged sitting using
+machine learning and computer vision techniques. It uses YOLOv8 model for
+object detection and is capable of sending notifications via Line Notify
+when a fall is detected or when prolonged sitting is detected beyond the
+specified threshold.
+
+By using this software, you agree to take full responsibility for any
+outcomes resulting from its use. The authors and copyright holders are not
+liable for any damages or claims that may arise from using this software.
