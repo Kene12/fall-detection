@@ -1,0 +1,4 @@
+pillow
+ultralytics
+opencv-python
+requests
